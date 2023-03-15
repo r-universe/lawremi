@@ -8,3 +8,23 @@
 	url = https://github.com/lawremi/ggbio
 	shallow = true
 	registered = true
+[submodule "gmapR"]
+	path = gmapR
+	url = https://github.com/lawremi/gmapr
+	shallow = true
+	registered = true
+[submodule "restfulr"]
+	path = restfulr
+	url = https://github.com/lawremi/restfulr
+	shallow = true
+	registered = true
+[submodule "rsolr"]
+	path = rsolr
+	url = https://github.com/lawremi/rsolr
+	shallow = true
+	registered = true
+[submodule "rtracklayer"]
+	path = rtracklayer
+	url = https://github.com/lawremi/rtracklayer
+	shallow = true
+	registered = true

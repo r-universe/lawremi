@@ -1,5 +1,19 @@
 [
   {
     "package": "ggbio"
+  },
+  {
+    "package": "gmapR"
+  },
+  {
+    "package": "restfulr",
+    "oncran": true
+  },
+  {
+    "package": "rsolr",
+    "oncran": true
+  },
+  {
+    "package": "rtracklayer"
   }
 ]
