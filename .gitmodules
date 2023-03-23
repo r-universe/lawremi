@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "biovizBase"]
+	path = biovizBase
+	url = https://git.bioconductor.org/packages/biovizBase
+	shallow = true
+	registered = true
 [submodule "ggbio"]
 	path = ggbio
 	url = https://github.com/lawremi/ggbio
@@ -13,9 +18,29 @@
 	url = https://github.com/lawremi/gmapr
 	shallow = true
 	registered = true
+[submodule "HelloRanges"]
+	path = HelloRanges
+	url = https://git.bioconductor.org/packages/HelloRanges
+	shallow = true
+	registered = true
+[submodule "objectProperties"]
+	path = objectProperties
+	url = https://github.com/cran/objectProperties
+	shallow = true
+	registered = true
+[submodule "objectSignals"]
+	path = objectSignals
+	url = https://github.com/cran/objectSignals
+	shallow = true
+	registered = true
 [submodule "restfulr"]
 	path = restfulr
 	url = https://github.com/lawremi/restfulr
+	shallow = true
+	registered = true
+[submodule "rsbml"]
+	path = rsbml
+	url = https://git.bioconductor.org/packages/rsbml
 	shallow = true
 	registered = true
 [submodule "rsolr"]
@@ -26,5 +51,10 @@
 [submodule "rtracklayer"]
 	path = rtracklayer
 	url = https://github.com/lawremi/rtracklayer
+	shallow = true
+	registered = true
+[submodule "VariantTools"]
+	path = VariantTools
+	url = https://git.bioconductor.org/packages/VariantTools
 	shallow = true
 	registered = true
