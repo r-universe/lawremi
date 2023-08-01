@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HelloRanges"]
+	path = HelloRanges
+	url = https://git.bioconductor.org/packages/HelloRanges
+[submodule "VariantTools"]
+	path = VariantTools
+	url = https://git.bioconductor.org/packages/VariantTools
 [submodule "biovizBase"]
 	path = biovizBase
 	url = https://git.bioconductor.org/packages/biovizBase
@@ -11,9 +17,6 @@
 [submodule "gmapR"]
 	path = gmapR
 	url = https://github.com/lawremi/gmapr
-[submodule "HelloRanges"]
-	path = HelloRanges
-	url = https://git.bioconductor.org/packages/HelloRanges
 [submodule "objectProperties"]
 	path = objectProperties
 	url = https://github.com/cran/objectProperties
@@ -32,6 +35,3 @@
 [submodule "rtracklayer"]
 	path = rtracklayer
 	url = https://github.com/lawremi/rtracklayer
-[submodule "VariantTools"]
-	path = VariantTools
-	url = https://git.bioconductor.org/packages/VariantTools
