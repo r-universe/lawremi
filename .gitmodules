@@ -7,7 +7,7 @@
 	url = https://git.bioconductor.org/packages/HelloRanges
 [submodule "VariantTools"]
 	path = VariantTools
-	url = https://git.bioconductor.org/packages/VariantTools
+	url = https://github.com/lawremi/varianttools
 [submodule "biovizBase"]
 	path = biovizBase
 	url = https://git.bioconductor.org/packages/biovizBase
