@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "HelloRanges"]
 	path = HelloRanges
-	url = https://git.bioconductor.org/packages/HelloRanges
+	url = https://github.com/lawremi/helloranges
 [submodule "VariantTools"]
 	path = VariantTools
 	url = https://github.com/lawremi/varianttools
