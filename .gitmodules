@@ -2,21 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "HelloRanges"]
-	path = HelloRanges
-	url = https://github.com/lawremi/helloranges
-[submodule "VariantTools"]
-	path = VariantTools
-	url = https://github.com/lawremi/varianttools
-[submodule "biovizBase"]
-	path = biovizBase
-	url = https://git.bioconductor.org/packages/biovizBase
-[submodule "ggbio"]
-	path = ggbio
-	url = https://github.com/lawremi/ggbio
-[submodule "gmapR"]
-	path = gmapR
-	url = https://github.com/lawremi/gmapr
 [submodule "objectProperties"]
 	path = objectProperties
 	url = https://github.com/cran/objectProperties
@@ -26,12 +11,6 @@
 [submodule "restfulr"]
 	path = restfulr
 	url = https://github.com/lawremi/restfulr
-[submodule "rsbml"]
-	path = rsbml
-	url = https://git.bioconductor.org/packages/rsbml
 [submodule "rsolr"]
 	path = rsolr
 	url = https://github.com/lawremi/rsolr
-[submodule "rtracklayer"]
-	path = rtracklayer
-	url = https://github.com/lawremi/rtracklayer
